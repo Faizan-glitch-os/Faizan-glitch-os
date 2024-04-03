@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faizan Ahmad 
-- 👀 I’m interested in Android App Development 
+- 👀 I’m interested in Mobile App Development 
 - 🌱 I’m currently learning Flutter
 - 📫 You can Reach me at faizanahmad2582001@gmail.com
 - ⚡ Fun fact: Cats don't have wings
