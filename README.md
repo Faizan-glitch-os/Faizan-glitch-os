@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faizan Ahmad 
-- 👀 I’m interested in Mobile App Development 
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web and Mobile App Development 
+- 🌱 I’m currently learning Flutter and Web
 - 📫 You can Reach me at faizanahmad2582001@gmail.com
 - Garage is the most powerful place on the Earth
 - ⚡Fun fact: HP, Microsoft, and Apple all began in a garage
